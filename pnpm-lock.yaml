@@ -41,7 +41,8 @@ importers:
         version: 0.7.2(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@movie-web/providers':
         specifier: github:sussy-code/providers
-        version: https://codeload.github.com/sussy-code/providers/tar.gz/276620b8b4036a528cd3b267af3923ab660f4b0a
+        version: https://codeload.github.com/sussy-code/providers/tar.gz/276620b8b4036a528cd3b267af3923ab660f4b
+        
       '@noble/hashes':
         specifier: ^1.4.0
         version: 1.4.0
