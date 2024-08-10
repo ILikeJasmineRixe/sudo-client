@@ -1,13 +1,13 @@
 {
   "about": {
-    "description": "sudo-flix is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. sudo-flix.lol runs on a private, self-hosted VPS. I run this site at a loss; there are no ads due to my beliefs in free media.",
+    "description": "Legit Bean Flix is a \"not-port\" of \"not-Sudo-Flix\". None of the movies and shows are hosted here, nor are they provided by me. I simply host a platform that enables other providers (whether they like it or not hehe) to localise their collections. I run this site at a loss; there are no ads due to my beliefs in free media.",
     "faqTitle": "Common questions",
     "q1": {
-      "body": "sudo-flix does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by sudo-flix, everything is through this searching mechanism.",
+      "body": "Legit Bean Flix does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by Legit Bean Flix, everything is through this searching mechanism.",
       "title": "Where does the content come from?"
     },
     "q2": {
-      "body": "It's not possible to request a show or movie, sudo-flix does not manage any content. All content is viewed through sources on the internet.",
+      "body": "It's not possible to request a show or movie, Legit Bean Flix does not manage any content. All content is viewed through sources on the internet.",
       "title": "Where can I request a show or movie?"
     },
     "q3": {
@@ -19,10 +19,10 @@
       "title": "What about my data and stuff?"
     },
     "q5": {
-      "body": "Well sudo-flix has a twitter account that can be found in the footer of this page as well as a link to the source code on Github.",
+      "body": "Well Legit Bean Flix has a twitter account that can be found in the footer of this page as well as a link to the source code on Github.",
       "title": "How can I find out more?"
     },
-    "title": "About sudo-flix (^▽^)"
+    "title": "About Legit Bean Flix (^▽^)"
   },
   "actions": {
     "copied": "Copied",
@@ -90,7 +90,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Disclaimer ◝(ᵔᵕᵔ)◜",
-      "disclaimerText": "Please note: sudo-flix does not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them."
+      "disclaimerText": "Please note: Legit Bean Flix does not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them."
     },
     "links": {
       "discord": "Discord",
@@ -101,7 +101,7 @@
     "tagline": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)"
   },
   "global": {
-    "name": "sudo-flix",
+    "name": "Legit Bean Flix",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
@@ -160,15 +160,15 @@
     "titles": {
       "day": {
         "default": "What would you like to watch this afternoon?",
-        "extra": ["Have you seen Blazing Saddles?"],
-        "extra": ["Welcome to Sudo-Flix!"],
+        "extra": ["Have you seen Bean Movie?"],
+        "extra": ["Welcome to Legit Bean Flix!"],
         "extra": [" /ᐠ>ヮ<ᐟ\\ฅ"],
         "extra": ["Legit Bean Flix."]
       },
       "morning": {
         "default": "What would you like to watch this morning?",
         "extra": ["Can't go wrong with Friends"],
-        "extra": ["I hear The Expanse is popular"],
+        "extra": ["Beans are pretty funny"],
         "extra": ["\"૮₍  ˶•⤙•˶ ₎ა"],
         "extra": ["Legit Bean Flix."]
       },
